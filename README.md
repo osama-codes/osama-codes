@@ -8,24 +8,24 @@ With over 15 years in cybersecurity, cloud security, and network architecture, I
 
 🔑 Core Expertise
 
-• Cloud Security & Architecture: Multi-cloud (GCP, AWS, Azure) security architecture and threat mitigation
+  • Cloud Security & Architecture: Multi-cloud (GCP, AWS, Azure) security architecture and threat mitigation
 
-• Security Operations & Incident Response: SIEM, XDR, EDR, SOAR, PAM
+  • Security Operations & Incident Response: SIEM, XDR, EDR, SOAR, PAM
 
-• Network & Identity Security: ZTNA, SASE, SDN, IAM, Privileged Access Management
+  • Network & Identity Security: ZTNA, SASE, SDN, IAM, Privileged Access Management
 
-• Compliance & Governance: GRC, NIST Cybersecurity Framework, Secure Platform Architecture
+  • Compliance & Governance: GRC, NIST Cybersecurity Framework, Secure Platform Architecture
 
 💡 Currently Exploring
 
-• Integrations between Prisma Cloud, CASB, and DLP
+  • Integrations between Prisma Cloud, CASB, and DLP
 
-• AI applications in security automation
+  • AI applications in security automation
 
-• New methodologies to support Zero Trust principles in cloud-native environments
+  • New methodologies to support Zero Trust principles in cloud-native environments
 
 🔍 Seeking Collaboration On
 
-• Cloud security projects, Zero Trust implementations, and secure DevSecOps pipelines
+  • Cloud security projects, Zero Trust implementations, and secure DevSecOps pipelines
 
-• Open-source initiatives in cybersecurity, threat intelligence, and automation tools
+  • Open-source initiatives in cybersecurity, threat intelligence, and automation tools
