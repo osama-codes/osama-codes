@@ -10,15 +10,15 @@ With over 15 years in cybersecurity, cloud security, and network architecture, I
 
   • Cloud Security & Architecture: Multi-cloud (GCP, AWS, Azure) security architecture and threat mitigation
 
-  • Security Operations & Incident Response: SIEM, XDR, EDR, SOAR, PAM
+  • Security Operations & Incident Response: SIEM, SOAR, TIP, XDR, EDR
 
   • Network & Identity Security: ZTNA, SASE, SDN, IAM, Privileged Access Management
 
-  • Compliance & Governance: GRC, NIST Cybersecurity Framework, Secure Platform Architecture
+  • Compliance & Governance: GRC, NIST Cybersecurity Framework, Secure Platform Architecture, ISO/IEC 27001, PCI-DSS
 
 💡 Currently Exploring
 
-  • Integrations between Prisma Cloud, CASB, and DLP
+  • Integrations between CNAPP, CASB, and DLP
 
   • AI applications in security automation
 
